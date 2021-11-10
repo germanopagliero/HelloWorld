@@ -6,3 +6,4 @@ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing
 prova
 **aggiunta in develop**
 > Quote
+aggiunta per merge
